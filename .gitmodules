@@ -1,0 +1,3 @@
+[submodule "rutaSub1/submodulo1"]
+	path = rutaSub1/submodulo1
+	url = https://github.com/armeroitop/submodulo1.git
